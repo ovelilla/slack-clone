@@ -1,0 +1,2 @@
+bun x convex dev
+npm convex dev
